@@ -19,3 +19,4 @@ out/
 gen/
 local.properties
 !gradle/
+/.nb-gradle/private/

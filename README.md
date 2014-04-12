@@ -1,6 +1,9 @@
 libgdx-gradle-template
 ======================
 
+Demo code for Java Day based on the Gradle project at Bad Logic Games git hub account. The example code in core was used during a coding talk at Java Day
+South Africa 2014. The remainder of this read me is from the gradle project check out.
+
 ## Notice Jan-14-2014
 This incarnation of the Gradle Template is no longer under active development. Further work is being done in
 the main [libgdx](https://github.com/libgdx/libgdx) project/repo. If you'd like to contribute, you'll find development
